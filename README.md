@@ -74,4 +74,5 @@ The overall volume peaked in the year 2020 across the considered companies.
 # Conclusion:
 In conclusion, the analysis of stock prices for Meta, Apple, and Google unveils consistent trends. Meta stands out with the highest open, close, and high stock prices, particularly in the notable upswing of 2021. Apple, on the other hand, dominates in trading volume, reaching its peak in 2020. These insights provide valuable perspectives for investors and stakeholders, guiding strategic decision-making in the dynamic stock market landscape.
 
-DASHBOARD:
+# DASHBOARD:
+- ![Dashboard Image](./Stock-Price-Analysis-PowerBI-main/Stocks-Dashboard.png)
